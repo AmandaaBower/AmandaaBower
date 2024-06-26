@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmandaaBower
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Java .
-- 💞️ I’m looking to collaborate on learning java.
+- 💞️ I’m looking to collaborate on learning python.
 - 📫 How to reach me, you can me by my email address.
 
 <!---
