@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmandaaBower
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python .
-- 💞️ I’m looking to collaborate on learning python.
+- 👀 I’m an AI Engineer.
+- 🌱 I’m currently learning Machine Learning and LLM .
+- 💞️ I’m looking to collaborate on Projects focused on Data Science.
 - 📫 How to reach me, you can me by my email address.
 
 <!---
